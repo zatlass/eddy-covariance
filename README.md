@@ -29,6 +29,8 @@ O dataset é o output público de processamento do **EddyPro** (software da LI-C
 - Agrupa os dados por horário do dia e calcula o fluxo médio de CO₂
 - Plota o **ciclo diário médio do fluxo de CO₂** com `matplotlib`
 
+![Ciclo diário médio do fluxo de CO2](ciclo_co2.png)
+
 ## Requisitos
 
 - Python 3.12+
