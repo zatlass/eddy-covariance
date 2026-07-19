@@ -39,6 +39,6 @@ O dataset é o output público de processamento do **EddyPro** (software da LI-C
 
 ## Próximos passos
 
-- [ ] Responder à pergunta 2 (taxa de variação do calor latente vs. radiação solar)
-- [ ] Responder à pergunta 3 (retenção de carbono em dias extremos vs. amenos)
-- [ ] Adicionar tratamento de outliers mais robusto para as demais variáveis
+- Responder à pergunta 2 (taxa de variação do calor latente vs. radiação solar)
+- Responder à pergunta 3 (retenção de carbono em dias extremos vs. amenos)
+- Adicionar tratamento de outliers mais robusto para as demais variáveis
